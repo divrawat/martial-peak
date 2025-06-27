@@ -3,8 +3,8 @@ export const DOMAIN = 'https://martialpeak.online';
 
 export const DOMAIN_NAME = 'martialpeak.online';
 
-export const IMAGES_SUBDOMAIN = '';
-export const IMAGES_SUBDOMAIN_LOGO = '';
+export const IMAGES_SUBDOMAIN = 'https://images.martialpeak.online/martial-peak';
+export const IMAGES_SUBDOMAIN_LOGO = `${DOMAIN}/chimp.webp`;
 
 // export const MANGA_DESCRIPTION0 = `<a href="${DOMAIN}"><u><b>Vinland Saga</b></u></a>`;
 
