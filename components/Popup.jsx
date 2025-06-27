@@ -45,7 +45,7 @@ export default function Popup() {
                 </div>
 
 
-                <div className='flex justify-center'><img src={`${IMAGES_SUBDOMAIN_LOGO}/public/logo.webp`} height={100} width={100} className="rounded-full" alt="" /></div>
+                <div className='flex justify-center'><img src={`${IMAGES_SUBDOMAIN_LOGO}`} height={100} width={100} className="rounded-full" alt="" /></div>
 
 
                 <h2 className={`${roboto2.className} my-3 text-[20px] text-center font-bold`}>Manga Chimp Toons</h2>
