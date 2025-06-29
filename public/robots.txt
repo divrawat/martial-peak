@@ -1,4 +1,4 @@
 user-agent: *
 Disallow: /admin/
 
-Sitemap: 
+Sitemap: https://martialpeak.online/sitemap.xml
