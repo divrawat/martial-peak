@@ -138,6 +138,9 @@ export default function Home() {
       <meta name="robots" content="follow, index, noarchive, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
       <meta property="og:url" content={`${DOMAIN}`} />
       <meta property="og:site_name" content={`${APP_NAME}`} />
+      <meta property="og:updated_time" content="2025-01-08T14:16:03+00:00" />
+      <meta property="article:published_time" content="2024-05-24T22:29:53+00:00" />
+      <meta property="article:modified_time" content="2025-01-08T14:16:03+00:00" />
       <meta property="og:image" content={`${COVER_IMG}`} />
       <meta property="og:image:secure_url" content={`${COVER_IMG}`} />
       <meta property="og:image:type" content="image/jpg" />
