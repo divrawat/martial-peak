@@ -73,7 +73,7 @@ export const MANGA_SUMMARY = [
 
 
 export const navLinks = [
-    // { text: 'Secret Class', href: `https://www.secretclass.in.net/` },
+    { text: 'Read Blue Lock Manga', href: `https://bluelockkmanga.online` },
     { text: 'Chapter 1', href: `${DOMAIN}/${URL_PREFIX}-1/` },
     { text: 'Chapter 2', href: `${DOMAIN}/${URL_PREFIX}-2/` },
     { text: 'Chapter 3', href: `${DOMAIN}/${URL_PREFIX}-3/` },
